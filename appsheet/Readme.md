@@ -38,3 +38,33 @@ EXAMPLE HELLO WORLD
 ![My Image](readme-images/image-12.png)
 
 ![My Image](readme-images/image-13.png)
+
+
+EXAMPLE HELLO WORLD + APPS SCRIPT
+---------------------------------
+
+**Preconditions**: please proceed with steps from section **EXAMPLE HELLO WORLD**
+
+![My Image](readme-images/image-14.png)
+
+![My Image](readme-images/image-15.png)
+
+![My Image](readme-images/image-16.png)
+
+![My Image](readme-images/image-17.png)
+
+![My Image](readme-images/image-18.png)
+
+![My Image](readme-images/image-19.png)
+
+![My Image](readme-images/image-20.png)
+
+![My Image](readme-images/image-21.png)
+
+![My Image](readme-images/image-22.png)
+
+![My Image](readme-images/image-23.png)
+
+![My Image](readme-images/image-24.png)
+
+![My Image](readme-images/image-25.png)
