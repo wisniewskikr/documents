@@ -43,3 +43,35 @@ INSTALLATION
 ![My Image](readme-images/install-15.png)
 
 ![My Image](readme-images/install-16.png)
+
+
+COMMAND LINE IMAGES AND CONTAINERS EXAMPLES
+-------------------------------------------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+2. Open any command line tool (e.g. Windows PowerShell) on just downloaded folder
+
+![My Image](readme-images/command-line-01.png)
+
+![My Image](readme-images/command-line-02.png)
+
+![My Image](readme-images/command-line-03.png)
+
+![My Image](readme-images/command-line-04.png)
+
+![My Image](readme-images/command-line-05.png)
+
+![My Image](readme-images/command-line-06.png)
+
+![My Image](readme-images/command-line-07.png)
+
+![My Image](readme-images/command-line-08.png)
+
+![My Image](readme-images/command-line-09.png)
+
+![My Image](readme-images/command-line-10.png)
+
+![My Image](readme-images/command-line-11.png)
+
+![My Image](readme-images/command-line-12.png)
