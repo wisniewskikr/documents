@@ -117,7 +117,7 @@ Example commands:
 
 
 COMMAND LINE PUSH AND PULL EXAMPLES
--------------------------------------------
+-----------------------------------
 
 Example commands:
 1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
@@ -138,3 +138,48 @@ Example commands:
 ![My Image](readme-images/cl-remote-07.png)
 
 ![My Image](readme-images/cl-remote-08.png)
+
+
+PODMAN DESKTOP PULL AND PUSH EXAMPLES
+-------------------------------------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+
+![My Image](readme-images/pk-remote-01.png)
+
+![My Image](readme-images/pk-remote-02.png)
+
+![My Image](readme-images/pk-remote-03.png)
+
+![My Image](readme-images/pk-remote-04.png)
+
+![My Image](readme-images/pk-remote-05.png)
+
+![My Image](readme-images/pk-remote-06.png)
+
+![My Image](readme-images/pk-remote-07.png)
+
+![My Image](readme-images/pk-remote-08.png)
+
+![My Image](readme-images/pk-remote-09.png)
+
+![My Image](readme-images/pk-remote-10.png)
+
+![My Image](readme-images/pk-remote-11.png)
+
+![My Image](readme-images/pk-remote-12.png)
+
+![My Image](readme-images/pk-remote-13.png)
+
+![My Image](readme-images/pk-remote-14.png)
+
+![My Image](readme-images/pk-remote-15.png)
+
+![My Image](readme-images/pk-remote-16.png)
+
+![My Image](readme-images/pk-remote-17.png)
+
+![My Image](readme-images/pk-remote-18.png)
+
+![My Image](readme-images/pk-remote-19.png)
