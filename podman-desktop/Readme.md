@@ -75,3 +75,42 @@ Example commands:
 ![My Image](readme-images/command-line-11.png)
 
 ![My Image](readme-images/command-line-12.png)
+
+
+PODMAN DESKTOP IMAGES AND CONTAINERS EXAMPLES
+---------------------------------------------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+
+![My Image](readme-images/desktop-01.png)
+
+![My Image](readme-images/desktop-02.png)
+
+![My Image](readme-images/desktop-03.png)
+
+![My Image](readme-images/desktop-04.png)
+
+![My Image](readme-images/desktop-05.png)
+
+![My Image](readme-images/desktop-06.png)
+
+![My Image](readme-images/desktop-07.png)
+
+![My Image](readme-images/desktop-08.png)
+
+![My Image](readme-images/desktop-09.png)
+
+![My Image](readme-images/desktop-10.png)
+
+![My Image](readme-images/desktop-11.png)
+
+![My Image](readme-images/desktop-12.png)
+
+![My Image](readme-images/desktop-13.png)
+
+![My Image](readme-images/desktop-14.png)
+
+![My Image](readme-images/desktop-15.png)
+
+![My Image](readme-images/desktop-16.png)
