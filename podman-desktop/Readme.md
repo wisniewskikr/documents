@@ -114,3 +114,27 @@ Example commands:
 ![My Image](readme-images/desktop-15.png)
 
 ![My Image](readme-images/desktop-16.png)
+
+
+COMMAND LINE PUSH AND PULL EXAMPLES
+-------------------------------------------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+1. Open any command line tool (e.g. Windows PowerShell) on just downloaded folder
+
+![My Image](readme-images/cl-remote-01.png)
+
+![My Image](readme-images/cl-remote-02.png)
+
+![My Image](readme-images/cl-remote-03.png)
+
+![My Image](readme-images/cl-remote-04.png)
+
+![My Image](readme-images/cl-remote-05.png)
+
+![My Image](readme-images/cl-remote-06.png)
+
+![My Image](readme-images/cl-remote-07.png)
+
+![My Image](readme-images/cl-remote-08.png)
