@@ -183,3 +183,9 @@ Example commands:
 ![My Image](readme-images/pk-remote-18.png)
 
 ![My Image](readme-images/pk-remote-19.png)
+
+
+INSTALLATION PODMAN COMPOSE
+---------------------------
+
+![My Image](readme-images/podman-compose-install-01.png)
