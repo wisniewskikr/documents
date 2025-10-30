@@ -189,3 +189,15 @@ INSTALLATION PODMAN COMPOSE
 ---------------------------
 
 ![My Image](readme-images/podman-compose-install-01.png)
+
+
+USAGE PODMAN COMPOSE
+--------------------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+1. Open any command line tool (e.g. Windows PowerShell) on just downloaded folder
+
+![My Image](readme-images/podman-compose-01.png)
+
+![My Image](readme-images/podman-compose-02.png)
