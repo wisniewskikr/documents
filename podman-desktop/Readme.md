@@ -201,3 +201,29 @@ Example commands:
 ![My Image](readme-images/podman-compose-01.png)
 
 ![My Image](readme-images/podman-compose-02.png)
+
+
+USAGE KIND
+----------
+
+Example commands:
+1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
+1. Open any command line tool (e.g. Windows PowerShell) on just downloaded folder
+
+![My Image](readme-images/kind-01.png)
+
+![My Image](readme-images/kind-02.png)
+
+![My Image](readme-images/kind-03.png)
+
+![My Image](readme-images/kind-04.png)
+
+![My Image](readme-images/kind-05.png)
+
+![My Image](readme-images/kind-06.png)
+
+![My Image](readme-images/kind-07.png)
+
+![My Image](readme-images/kind-08.png)
+
+![My Image](readme-images/kind-09.png)
