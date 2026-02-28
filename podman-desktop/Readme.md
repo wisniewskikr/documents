@@ -210,6 +210,10 @@ Example commands:
 1. Download example GIT project with `git clone git@github.com:wisniewskikr/java-springboot3-api-rest-helloworld.git`
 1. Open any command line tool (e.g. Windows PowerShell) on just downloaded folder
 
+Commands:
+* $env:KIND_EXPERIMENTAL_PROVIDER = "podman"
+* echo $env:KIND_EXPERIMENTAL_PROVIDER
+
 ![My Image](readme-images/kind-01.png)
 
 ![My Image](readme-images/kind-02.png)
