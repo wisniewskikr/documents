@@ -29,3 +29,12 @@ To use Github Copilot you can proceed with following shortcuts:
 * "@": in chat restricts context. For instance only for Java or JavaScript
 * "#": in chat selects files to discuss
 * "/": in chat chooses topic. For intance tests, refactoring or explaination
+
+
+LINKS
+-----
+
+Usefull links:
+* https://www.youtube.com/watch?v=jXp5D5ZnxGM
+* https://www.youtube.com/watch?v=SLMfhuptCo8
+* https://www.youtube.com/watch?v=SJqGYwRq0uc
